@@ -1,8 +1,11 @@
-ankit ={
-    name:"Ankit",
-    favNumber: 3,
+// (function(exports, require, module, __filename, __dirname){
+
+ankit = {
+    name: "ankit",
+    favNum: 36,
     developer: true
 }
-
-
-module.exports= ankit;
+// console.log(exports, require, module, __filename, __dirname)
+module.exports = ankit;
+    
+// })

@@ -1,4 +1,3 @@
-const ankit= require("./second");
+const lovish = require("./second");
 
-console.log("Hello world", ankit)
-
+console.log("Hello world", lovish)
